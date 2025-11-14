@@ -59,7 +59,7 @@ Each model works independently AND sequentially, forming a powerful **cascaded d
 - Inputs:
   - Vehicle features  
   - **Predicted emissions from Model 2**  
-- Best-performing model: `RandomForestClassifier`
+- Best-performing model: `XGBOOST`
 
 ---
 
